@@ -1,0 +1,5 @@
+Description: Custom Shipping Method for WooCommerce for Muebles Artex.
+
+- Calculadora de fletes para Muebles Artex.
+- Con base en tafiras establecidas por TRAMUSA.
+- Costos según distancia, peso y volumen del envío.
