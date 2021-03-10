@@ -1,12 +1,12 @@
 <?php
  
 /**
- * Plugin Name: WooCommerce Tramusa Shipping
- * Plugin URI: https://www.neuestudio.mx/
+ * Plugin Name: WooCommerce Tramusa Cutom Shipping
+ * Plugin URI: https://alainxps.com/
  * Description: Custom Shipping Method for WooCommerce using Tramusa API
  * Version: 1.0.0
  * Author: Alain Xchel (@alainxps) || Neuestudio
- * Author URI: https://www.neuestudio.mx/
+ * Author URI: https://alainxps.com/
  * License: GPL-3.0+
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Domain Path: /lang
